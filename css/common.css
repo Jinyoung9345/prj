@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+/* reset */
+html,body{
+  width: 100%;
+}
+/* common */
+body{
+  font: 15px 'Noto Sans Korean', 'Merriweather Sans', sans-serif;
+}
